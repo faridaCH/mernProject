@@ -1,0 +1,3 @@
+# les doc à ne pas commiter sur Git
+/node_modules     
+/config/.env
